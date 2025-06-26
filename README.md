@@ -71,7 +71,7 @@ The project focuses on transforming raw Excel data into meaningful visual narrat
 * Organized visuals into a single-page, user-friendly dashboard.
 * Applied consistent color schemes and formatting for readability.
 * Ensured interactive filters apply across all visuals for dynamic exploration.
-* 
+  
 ![image](https://github.com/user-attachments/assets/cad19a5c-1b19-428c-b409-517928ddd199)
 
 ---
@@ -96,7 +96,7 @@ The project focuses on transforming raw Excel data into meaningful visual narrat
 
 # 🎯 Final Notes
 
-This project reflects core Power BI capabilities for data transformation, visualization, and interactive reporting. It's ideal for showcasing business intelligence skills on a real-world-style financial dataset.
+This project reflects core Power BI capabilities for data transformation, visualisation, and interactive reporting. It's ideal for showcasing business intelligence skills on a real-world-style financial dataset.
 
 ---
 Created by Susana-dLG
