@@ -73,7 +73,8 @@ The project focuses on transforming raw Excel data into meaningful visual narrat
 * Ensured interactive filters apply across all visuals for dynamic exploration.
   
 ![image](https://github.com/user-attachments/assets/cad19a5c-1b19-428c-b409-517928ddd199)
-https://app.powerbi.com/groups/me/reports/4cd11c83-3cfd-452f-8745-68e81251d636/5ba22073eee52da570b0?experience=power-bi
+[View in PowerBI](https://app.powerbi.com/groups/me/reports/4cd11c83-3cfd-452f-8745-68e81251d636/5ba22073eee52da570b0?experience=power-bi)
+
 ---
 
 ## 5️⃣ Achievements & Key Conclusions
