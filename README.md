@@ -45,8 +45,14 @@ The project focuses on transforming raw Excel data into meaningful visual narrat
 ### **Visualization Building**
 
 * Created a bar chart for **Total Sales by Country** to compare market performance.
+  ![image](https://github.com/user-attachments/assets/f97a7413-9a40-41bd-8593-4c597a038185)
+
 * Added a line chart showing **Profit Trends over Time** to highlight seasonal fluctuations.
-* Developed a donut chart for **Sales Distribution by Product**.
+  ![image](https://github.com/user-attachments/assets/7d0d3f32-5296-4f4c-88de-6bf810788127)
+
+* Developed a pie chart for **Sales Distribution by Product**.
+  ![image](https://github.com/user-attachments/assets/6a314ddf-29ef-4495-abed-22004edf04a8)
+
 * Included KPIs to display:
 
   * Total Sales
@@ -57,12 +63,16 @@ The project focuses on transforming raw Excel data into meaningful visual narrat
   * `Country`
   * `Product`
   * `Year`
+    
+![image](https://github.com/user-attachments/assets/9090a9fb-26cc-4cf5-adff-6376b84de6cf)
 
 ### **Dashboard Design**
 
 * Organized visuals into a single-page, user-friendly dashboard.
 * Applied consistent color schemes and formatting for readability.
 * Ensured interactive filters apply across all visuals for dynamic exploration.
+* 
+![image](https://github.com/user-attachments/assets/cad19a5c-1b19-428c-b409-517928ddd199)
 
 ---
 
@@ -80,7 +90,7 @@ The project focuses on transforming raw Excel data into meaningful visual narrat
 ✔ Top-performing countries by sales were identified, providing market focus areas.
 ✔ The most profitable products stood out, aiding product strategy decisions.
 ✔ Profit trends revealed seasonal variations, useful for forecasting.
-✔ Discount strategies were analyzed to assess their impact on profitability.
+✔ Discount strategies were analysed to assess their impact on profitability.
 
 ---
 
@@ -90,3 +100,4 @@ This project reflects core Power BI capabilities for data transformation, visual
 
 ---
 Created by Susana-dLG
+June 2025
